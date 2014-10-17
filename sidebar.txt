@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[prz:home|Door43 (prz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-prz|d43-prz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-prz/archive/master.zip|d43-prz.zip]]
+
+**Recent Changes**
+{{changes>ns = prz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/prz|Ethnologue data]]
+
